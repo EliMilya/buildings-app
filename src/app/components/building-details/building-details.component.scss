@@ -1,0 +1,15 @@
+@import "../../../styles/variables";
+
+.details-container {
+  border-radius: 3px;
+  box-shadow: 0px 0 6px 2px $lightgrey-200;
+  margin: 6px;
+  background-color: $lightgrey-100;
+  width: 300px;
+  height: 500px;
+}
+
+.image {
+  width: 140px;
+  height: 260px;
+}
